@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![React](https://img.shields.io/badge/React-19-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC)
+
+## Technologies Used
+
+- **Frontend Framework:** Next.js 14
+- **Programming Language:** JavaScript
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks
+- **Routing:** Next.js App Router
+- **UI Components:** Custom Components
 
 ## Getting Started
 
