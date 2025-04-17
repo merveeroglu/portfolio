@@ -5,8 +5,8 @@ export default function Home() {
     <div className="text-7xl p-35 flex gap-95">
       <div>
         <div className="typewriter">
-          <h1 className="text-6xl font-bold">Hi, I'm Merve</h1>
-          <div className="text-3xl mt-6">I'm a Front-end Developer</div>
+          <h1 className="text-6xl font-bold">Hi, I&apos;m Merve</h1>
+          <div className="text-3xl mt-6"> I&apos;m a Front-end Developer</div>
         </div>
 
         <a
