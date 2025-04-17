@@ -5,7 +5,7 @@ import Image from "next/image";
 const Portfolio = () => {
   return (
     <div className="flex m-20 mx-30 justify-between">
-      <ul className="flex flex-col  text-xl max-w-4xl text-gray-800 mt-10">
+      <ul className="flex flex-col  text-xl max-w-4xl text-gray-800 mt-5">
         <h3 className="text-2xl font-semibold mt-10 mb-4">
           🌐 Portfolio Website
         </h3>{" "}
@@ -28,7 +28,7 @@ const Portfolio = () => {
           <span className="font-bold">UI Components:</span> Custom Components
         </li>
         <a
-          href="https://github.com/merveeroglu/Movie-App?tab=readme-ov-file"
+          href="https://github.com/merveeroglu/portfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-10 flex items-center justify-center gap-2 bg-gray-700 hover:bg-blue-950 text-white text-center text-sm font-medium py-2 px-2 w-[100px] rounded-md shadow-md transition-all duration-300"

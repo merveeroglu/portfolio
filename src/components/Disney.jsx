@@ -5,7 +5,7 @@ import Image from "next/image";
 const Disney = () => {
   return (
     <div className="flex m-20 mx-30 justify-between">
-      <ul className="flex flex-col  text-xl max-w-4xl text-gray-800 mt-10">
+      <ul className="flex flex-col  text-xl max-w-4xl text-gray-800 mt-5">
       
       <h3 className="text-2xl font-semibold mt-10 mb-4">
       🎬 Disney
