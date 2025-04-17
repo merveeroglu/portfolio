@@ -2,6 +2,8 @@
 ![React](https://img.shields.io/badge/React-19-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC)
 
+https://merveportfolio.netlify.app/
+
 ## Technologies Used
 
 - **Frontend Framework:** Next.js 14
