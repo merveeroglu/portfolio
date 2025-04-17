@@ -27,7 +27,9 @@ const Portfolio = () => {
         <li>
           <span className="font-bold">UI Components:</span> Custom Components
         </li>
-        <a
+
+                <div className="flex gap-2">
+                <a
           href="https://github.com/merveeroglu/portfolio"
           target="_blank"
           rel="noopener noreferrer"
@@ -36,6 +38,15 @@ const Portfolio = () => {
           <FaCode size={16} />
           CODE
         </a>
+                  <a
+                    href="https://merveportfolio.netlify.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-10 flex items-center justify-center gap-2 bg-gray-700 hover:bg-blue-950 text-white text-center text-sm font-medium py-2 px-2 w-[100px] rounded-md shadow-md transition-all duration-300"
+                  >
+                    WEBSITE
+                  </a>
+                </div>
       </ul>
       <div>
         <Image
